@@ -1,0 +1,25 @@
+---
+title: 'Geog6300: Final Project'
+author: "Jerry Shannon"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(sf)
+```
+
+Use this template for your responses for the final project.
+
+## Variables and research question (5 points)
+_In the space below, list the four variables you are using for this analysis. The dependent variable should be one of the measures of dollar store proximity. Explain why you're choosing each variable--what association do you think they might have with dollar store proximity? Finally, write a research question that will be answered through your analysis._
+
+## Descriptive analysis (10 points)
+_Describe the central tendency (e.g., mean, median, mode), statistical distribution (e.g., standard deviation and/or IQR), normality, and spatial distribution of each variable using the techniques we have covered in class. Describe any notable patterns you see in these variables based on this analysis._
+
+## Inferential statistics (10 points)
+_Create a multivariate regression model that assesses the relationship between your independent and dependent variables. Check for multicollinearity and the potential effect of outliers. Also check whether the residuals have a random distribution both statistically and spatially. Discuss what model diagnostics tell you about the validity of the model._ 
+
+## Discussion (5 points)
+_Based on your results, interpret the results of your model, focusing on the direction, magnitude, and significance of each variable and the overall power of the model. Based on this analysis, what answer can you give to your research question? What limitations or problems does your analysis have that should be addressed in the future?_
