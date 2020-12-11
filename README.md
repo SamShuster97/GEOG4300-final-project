@@ -26,10 +26,10 @@ The dataset for your final provides multiple variables for tracts in the Chicago
 * pov_pct: % of people with household incomes below poverty level
 * medinc: Median household income
 * spmkt_dist: Distance to the nearest SNAP-authorized supermarket
-* allstore_dist: Distance to the closest dollar store (any chain) in km
-* dg_dist: Distance to the closest Dollar General in km
-* dt_dist: Distance to the closest Dollar Tree in km
-* fd_dist: Distance to the closest Family Dollar in km
+* allstore_dist: Distance to the closest dollar store (any chain) in m
+* dg_dist: Distance to the closest Dollar General in m
+* dt_dist: Distance to the closest Dollar Tree in m
+* fd_dist: Distance to the closest Family Dollar in m
 
 You can load the data from your repo using the following command:
 
