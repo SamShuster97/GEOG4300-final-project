@@ -43,9 +43,9 @@ For this assignment, you will need to select four variables: *one* measure of pr
 
 ## Grading
 
-* Variables and research question (5 points):
-* Descriptive statistics (10 points):
-* Inferential statistics (10 points):
-* Discussion (5 points):
+* Variables and research question (5 points): 4 Your analysis can't answer this research question--we have no data on why DT opens stores in an area. We can ask if these stores are associated with certain demographics, though. Might also want to consider if % Af-Am and % White might be correlated or related.
+* Descriptive statistics (10 points): 8 Not sure why you're including the linear models here. There's already a lot, and this makes it harder to read. It's also not clear why you say there's no connection to race based on these data.
+* Inferential statistics (10 points): 8 No discussion of results here. Also missing map of residuals.
+* Discussion (5 points): 5. I'd agree that there's not a strong model using these variables. Tells you something but low R2 is important.
 
-Total (out of 30 points):
+Total (out of 30 points): 25
